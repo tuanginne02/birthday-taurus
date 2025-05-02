@@ -6,6 +6,7 @@ import { FaBirthdayCake, FaStar, FaHeart } from "react-icons/fa";
 import ImageCarousel from "./ImageCarousel";
 import Countdown from "react-countdown";
 import birthdaySong from "./assets/birthday-song.mp3";
+import ninhvo from "./assets/BucTranhVinhHang.mp3";
 import Title from "./Title";
 
 export default function App() {

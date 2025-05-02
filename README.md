@@ -13,6 +13,15 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Những mục cần đổi:
 folder assets đổi ảnh và nhạc theo nhu cầu
+Thay đường dẫn ảnh ở file ImgeCar
+//Thay đổi đường dẫn đến ảnh của bạn ở đây
+import bn1 from "./assets/OIP.jpg";
+import bn2 from "./assets/OIP (1).jpg";
+import bn3 from "./assets/OIP (2).jpg";
+import bn4 from "./assets/OIP (3).jpg";
+import bn5 from "./assets/OIP (4).jpg";
+import bn6 from "./assets/OIP (5).jpg";
+import bn7 from "./assets/OIP (6).jpg";
 đổi tên và ảnh ở file index.html
 ở file App đổi:
 const targetDate = new Date("2025-05-03T00:00:00");: đổi ngày sinh nhật
